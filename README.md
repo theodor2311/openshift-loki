@@ -1,5 +1,5 @@
 # Install Loki Stack on OpenShift
-*Disclaimer: This is just for testing loki stack in Openshift, not a good practice in security view*
+*Disclaimer: This is just for testing loki stack in Openshift, not a good practice in security point of view*
 # Setting up Environment Variables for Installation
 ```bash
 # Tested with OpenShift 4.3.9
